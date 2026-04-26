@@ -18,3 +18,5 @@ This project analyzes sales data using Power BI to generate insights on revenue,
 ## 📂 Files Included
 - Power BI file (.pbix)
 - Dataset (CSV/Excel)
+
+![Dashboard](your-image-name.png)
